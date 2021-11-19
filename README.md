@@ -8,6 +8,10 @@ Using list in flutter
 
 # Preview
 
-![alt text](http://url/to/img.png)
+<img src = 'https://github.com/adawiyahakmal/assignment_1/blob/master/image/1.jpeg' width = '250'> 
+
+<img src = 'https://github.com/adawiyahakmal/assignment_1/blob/master/image/2.jpeg' width = '400' height = '400'>
+
+
 
 
